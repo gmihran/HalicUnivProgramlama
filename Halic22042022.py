@@ -1,4 +1,3 @@
-"""
 #Matematik Oyunu
 #1 ile 100 arasında 2 tam sayı üretip, rastgele +,-,* işlemlerinden birini seçip sonucu kullanıcıdan isteyelim.
 #Kullanıcı doğru cevap verirse 1 puan kazansın. Ekrana kullanıcının aldığı puan yazdırılsın.
@@ -47,7 +46,6 @@ else:
   print("Yanlış Tahmin. Sonuç:",sonuc)
 
 print("Puanınız:",puan)
-"""
 
 
 
