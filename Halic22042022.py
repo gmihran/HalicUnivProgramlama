@@ -48,7 +48,7 @@ else:
 print("Puanınız:",puan)
 
 
-
+#Kullanıcıya sorucevap sözlüğünden rastgele bir soru soralım. Eğer doğru cevap verirse 1 puan kazansın. Oyunun sonunda puanını yazdıralım.
 sorucevap={"Türkiye'nin başkenti neresidir?":"Ankara","Kardeşimin Hikayesi kitabının yazarı kimdir?":"Zülfü Livaneli","Osmanlının kurucusu kimdir?":"Osman Bey","Türkiyenin en yüksek dağı?":"Ağrı Dağı","Dünyanın en büyük dağı?":"Everest","Atatürk'ün doğum tarihi?":"1881"} 
 
 puan=0
